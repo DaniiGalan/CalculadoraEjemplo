@@ -11,7 +11,7 @@ public class CalculadoraMain {
      * @param args argumentos de línea de comandos
      */
     public static void main(String[] args) {
-        CalculadoraEjemplo calculadora = new CalculadoraEjemplo(8, 4);
+        CalculadoraEjemplo calculadora = new CalculadoraEjemplo(28, 18);
 
         System.out.println("Suma: " + calculadora.suma());
         System.out.println("Resta: " + calculadora.resta());
